@@ -63,3 +63,5 @@ A local stub answers as every registry, so the tests touch no network.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+A 220 Labs tool · https://220labs.dev/name-check/
